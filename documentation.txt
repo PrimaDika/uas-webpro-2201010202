@@ -1,0 +1,7 @@
+
+di sini anda bisa mengaskses web ini dengan search http://localhost/uasweb/login.php
+
+saya membuat websit perpustakaan yang bisa di akses dengan login 
+menggunakan user name admin dan password admin. di dalam web ini anda 
+bisa menambahkan mengedit dan menghapus data buku, data mahasiswa yang 
+meminjam buku, dan data peminjaman buku
